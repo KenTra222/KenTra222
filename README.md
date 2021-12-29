@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Kentravious Colson
-- 👀 I’m interested in creating, art, anime, music and a list of things i cant think of rn lol
-- 🌱 I’m currently learning react js. im so excited
-- 💞️ I’m looking to collaborate on any web pages, apps design, whatever i can to get my feet wet
-- 📫 How to reach me kentraviousc@gmail.com
+- How's it going? Names Colson....Kentravious Colson
+- Frontend React Developer along with tailwind css
+- Learning how to work git as we speak.
+- Typically enjoy animations, food, art and.....actually the list goes on next question
+- 📫 How to reach me kentraviousc@gmail.com or kencoldev@gmail.com
 
 <!---
 KenTra222/KenTra222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
