@@ -1,7 +1,7 @@
-- How's it going? Names Colson....Kentravious Colson
-- Frontend React Developer along with tailwind css
-- Learning how to work git as we speak.
-- Typically enjoy animations, food, art and.....actually the list goes on next question
+- Kentravious Colson
+- Frontend Developer 
+- Learning next js.
+- passions are web development, 3d animation, and creative writing
 - 📫 How to reach me kentraviousc@gmail.com or kencoldev@gmail.com
 
 <!---
