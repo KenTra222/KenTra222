@@ -1,7 +1,9 @@
 - Kentravious Colson
 - Frontend Developer 
-- Learning next js.
-- passions are web development, 3d animation, and creative writing
+- 3d animator
+- artist
+
+
 - 📫 How to reach me kentraviousc@gmail.com or kencoldev@gmail.com
 
 <!---
