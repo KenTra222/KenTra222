@@ -1,7 +1,9 @@
-- Kentravious Colson
-- Frontend Developer 
-- 3d animator
-- artist
+- 🧔🏾 Kentravious Colson
+- 💻 Frontend Developer 
+- 🎬 3d animator
+- 🎨 artist
+
+"the greatest part about being a web dev is the memes 👌🏾" 
 
 
 - 📫 How to reach me kentraviousc@gmail.com or kencoldev@gmail.com
